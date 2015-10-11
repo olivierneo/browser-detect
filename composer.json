@@ -22,7 +22,7 @@
 
     "autoload": {
         "psr-4": {
-            "hisorange\\BrowserDetect\\": "src/"
+            "olivierneo\\BrowserDetect\\": "src/"
         }
     },
 
